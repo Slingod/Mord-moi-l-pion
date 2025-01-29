@@ -81,6 +81,9 @@ $ cd lib
 # Run the project
 $ ruby main.rb
 
+# Continue ?
+$ yes or no
+# yes to relaunch one game or no to cancel
 # The server will initialize in the <http://localhost:3000>
 ```
 
